@@ -1,4 +1,4 @@
-package org.lolczak.effect
+package tech.olczak.effect
 
 import org.scalatest.WordSpec
 
